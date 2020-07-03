@@ -57,8 +57,9 @@ http://localhost:8080/
 
 ### Upload testing dataset 
 
-Click on `Update product and inventory` page,
-and upload the csv file from dataset folder.
+Click on `Update product and inventory` page and upload the csv file from `dataset` folder.
+
+After upload `product.csv` and `inventory.csv`, you can do the searching and transferring action.
 
 
 ## Daily task
