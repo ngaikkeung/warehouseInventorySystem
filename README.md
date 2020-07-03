@@ -20,9 +20,9 @@ This project is a java spring boot web application.
 
 ### Prerequisites
 
-Need Java SDK 8, [Maven](https://maven.apache.org/download.cgi) and [MySQL](https://www.mysql.com/downloads/)
+1. Require Java SDK 8, [Maven](https://maven.apache.org/download.cgi) and [MySQL](https://www.mysql.com/downloads/)
 
-Create a persistent database and database user:
+2. Create a persistent database and database user:
 ```sql
 mysql> create database warehouse; -- Creates the new database
 mysql> create user 'warehouse_user'@'%' identified by 'password'; -- Creates the user
@@ -30,14 +30,14 @@ mysql> grant all on warehouse.* to 'warehouse_user'@'%'; -- Gives all privileges
 ```
 
 ### Clone repository
-Clone the Git repository using git:
+Clone the git repository using git:
 
 ```bash
 git clone https://github.com/ngaikkeung/warehouseInventorySystem
 cd warehouseInventorySystem
 ```
 
-### Install Dependencies
+### Install dependencies
 
 ```bash
 ./mvnw clean package
