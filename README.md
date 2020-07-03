@@ -2,6 +2,18 @@
 
 This project is a java spring boot web application.
 
+#### Dashboard page
+![image](https://github.com/ngaikkeung/warehouseInventorySystem/blob/master/screenshot/dashboard.png)
+
+#### Update page
+![image](https://github.com/ngaikkeung/warehouseInventorySystem/blob/master/screenshot/update.png)
+
+#### Transfer page
+![image](https://github.com/ngaikkeung/warehouseInventorySystem/blob/master/screenshot/transfer.png)
+
+#### Search page
+![image](https://github.com/ngaikkeung/warehouseInventorySystem/blob/master/screenshot/search.png)
+
 ## Installation
 
 ### Prerequisites
